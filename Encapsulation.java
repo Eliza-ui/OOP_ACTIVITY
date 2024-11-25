@@ -11,7 +11,7 @@ public class Encapsulation
  
 	 Book book1 = new Book();
 	 book1.setbooknumber(1);
-	 book1.setTitle("Dekada 70");
+	 book1.setTitle("");
 	 book1.setname("Lualhati Bautista");
 	 book1.setprice( 450.00f);
  
