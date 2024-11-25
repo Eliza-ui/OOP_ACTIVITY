@@ -11,9 +11,9 @@ public class Encapsulation
  
 	 Book book1 = new Book();
 	 book1.setbooknumber(1);
-	 book1.setTitle("");
-	 book1.setname("Lualhati Bautista");
-	 book1.setprice( 450.00f);
+	 book1.setTitle("Magic Born");
+	 book1.setname("Odette C. Bell");
+	 book1.setprice( 499.00f);
  
 	 System.out.println("Book number: " + book1.getBookNumber());
 	 System.out.println("Book Title: " + book1.getTitle());
